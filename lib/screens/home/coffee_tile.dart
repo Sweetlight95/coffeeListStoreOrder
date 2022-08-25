@@ -6,6 +6,7 @@ import '../../models/coffee.dart';
 class CoffeeTile extends StatelessWidget {
 
   final Coffee coffee;
+
   CoffeeTile({required this.coffee});
 
   @override
